@@ -1,8 +1,13 @@
 # Contributing
 
-Your contributions are always welcome!
 
-* Open an issue with any suggestion/correction
-* Send a Pull Request
-* Contact me on Twitter @mikhaildozmorov or by e-mail mikhail.dozmorov@gmail.com
 
+Course Details:
+Course Title: Statistical Modeling with Python
+Key Topics: Regression, Hypothesis Testing, Machine Learning, Statistical Inference, and Model Evaluation
+Learning Approach: Includes practical Python implementations, real-world examples, and assignments designed to strengthen statistical reasoning.
+Link to Course: [[GitHub Repository or Course URL](https://github.com/muhammadalmaskhan/MT2002-Statistical-Modeling)]
+Motivation:
+I believe this course will be a valuable addition to the existing resources in this repository, providing learners with a structured, practical approach to statistical modeling.
+
+I appreciate the opportunity to contribute and welcome any feedback or suggestions for improvement.
